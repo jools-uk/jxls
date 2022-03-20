@@ -1,7 +1,7 @@
 allprojects {
     apply plugin: 'jacoco'
     
-        version = '2.10.1-SNAPSHOT'
+        version = '2.11.1-robbiju'
     group = 'org.jxls'
     
     repositories {
