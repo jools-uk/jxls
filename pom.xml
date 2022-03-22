@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.jxls</groupId>
+    <groupId>io.github.jools-uk</groupId>
     <artifactId>jxls-project</artifactId>
     <packaging>pom</packaging>
     <version>2.11.1-robbiju</version>
@@ -15,8 +15,8 @@
     </licenses>
     <developers>
         <developer>
-            <name>Leonid Vysochyn</name>
-            <email>leonate@gmail.com</email>
+            <name>Julian Robbins</name>
+            <email>dismal_slouchy_OI@icloud.com</email>
         </developer>
     </developers>
 
@@ -27,9 +27,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:http://github.com/jxlsteam/jxls.git</connection>
-        <developerConnection>scm:git:https://github.com/jxlsteam/jxls.git</developerConnection>
-        <url>https://github.com/jxlsteam/jxls.git</url>
+        <connection>scm:git:http://github.com/jools-uk/jxls.git</connection>
+        <developerConnection>scm:git:https://github.com/jools-uk/jxls.git</developerConnection>
+        <url>https://github.com/jools-uk/jxls.git</url>
         <tag>HEAD</tag>
     </scm>
 
